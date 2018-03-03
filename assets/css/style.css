@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+
+
+html, body{
+	color: #ff0000;
+	background-image: url("");
+	border-color: #dddddd;
+	font-size: 18px;
+	line-height: 34px;
+	font-family: 'Concert One', cursive;
+    color: #dd3358   
+	
+    background-repeat: no-repeat;
+    background-color: #282828;  
+    height: 100%;  	
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -4em;
+}
+.mainHeader{
+	columns: 
+}
+#game{
+	text-align: left;
+}
+#container{
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;	
+}
+
+.footer, .push {
+  height: 4em;
+  text-align: center;
+}
